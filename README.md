@@ -1,3 +1,3 @@
 # demo1_js
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-gdmhtn)
+Demo 1 en JavaScript.
+Nos muestra un alert con el mensaje de ¡Hola Mundo!.
